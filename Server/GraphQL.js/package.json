@@ -1,0 +1,14 @@
+{
+  "name": "graphql-js",
+  "version": "1.0.0",
+  "description": "Using GraphQL.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^0.10.1"
+  }
+}
