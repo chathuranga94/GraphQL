@@ -1,0 +1,27 @@
+https://www.apollographql.com/docs/apollo-server/essentials/server.html
+https://github.com/apollographql/apollo-server
+
+GraphQL Playground is a graphical, interactive, in-browser GraphQL IDE, created by Prisma and based on GraphiQL.
+
+
+------------------------------------------
+
+https://www.apollographql.com
+https://graphql.org
+https://www.graphql.com
+https://github.com/apollographql
+
+
+GraphQL Schema Description Language?
+https://medium.com/software-insight/graphql-queries-mutations-and-subscriptions-286522b263d9
+https://blog.apollographql.com/apollo-client-graphql-with-react-and-redux-49b35d0f2641
+https://blog.apollographql.com/the-future-of-state-management-dd410864cae2
+https://neo4j.com/developer/graphql/
+https://blog.grandstack.io/five-common-graphql-problems-and-how-neo4j-graphql-aims-to-solve-them-e9a8999c8d43
+https://philsturgeon.uk/api/2017/01/24/graphql-vs-rest-overview/
+https://blog.goodapi.co/rest-vs-graphql-a-critical-review-5f77392658e7
+https://www.prisma.io/blog/top-5-reasons-to-use-graphql-b60cfa683511/
+https://da-14.com/blog/moment-glory-graphql-or-it-time-enjoy-rest
+https://www.toptal.com/api-development/graphql-vs-rest-tutorial
+https://www.jahia.com/fr/a-propos/news-evenements/blog/isgraphqlthefutureofapis
+https://www.liip.ch/en/blog/neo4j-and-graphql-a-perfect-match
