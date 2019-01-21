@@ -25,3 +25,11 @@ https://da-14.com/blog/moment-glory-graphql-or-it-time-enjoy-rest
 https://www.toptal.com/api-development/graphql-vs-rest-tutorial
 https://www.jahia.com/fr/a-propos/news-evenements/blog/isgraphqlthefutureofapis
 https://www.liip.ch/en/blog/neo4j-and-graphql-a-perfect-match
+
+https://graphql.org/graphql-js/passing-arguments/
+https://graphql.org/graphql-js/mutations-and-input-types/
+https://www.toptal.com/api-development/graphql-vs-rest-tutorial
+https://www.howtographql.com/advanced/1-server/
+https://www.howtographql.com/graphql-js/2-a-simple-query/
+https://stackoverflow.com/questions/48094695/how-to-pass-root-parameters-in-the-resolver-function-of-a-nested-query
+https://github.com/apollographql/apollo-server/issues/1664
